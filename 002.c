@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int fib(x)
+int fib(int x)
 {
 	if ((x == 1) || (x == 2))
 		return x;
